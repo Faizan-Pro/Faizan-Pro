@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faizan-Pro
+- 👋 Hi, I’m Faizan Mughal
 - 👀 I’m interested in learning new language 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on telegram 
